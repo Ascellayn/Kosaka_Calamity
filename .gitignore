@@ -1,0 +1,7 @@
+*.env
+Blacklist.json
+Kosaka_Tokens.json
+
+Logs/*
+__pycache__/*
+*.pyc
