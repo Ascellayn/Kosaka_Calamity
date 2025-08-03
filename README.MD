@@ -6,7 +6,7 @@ This server is also known internally within TSN as "Kosaka_Calamity", a referenc
 ## Usage
 ### Calamity Setup
 **This isn't really something you can use as it is purposefully built for the conditions Kosaka is in. As Kosaka is split into 3 different versions, all of which are as of right now currently closed source and unavailable, you may find this quite useless unless you use this for your own bot projects I guess?**
-- Specify "Tokens" in your `Kosaka_Tokens.json" for each Kosaka Instance such as:
+- Specify "Tokens" in your `Kosaka_Tokens.json` for each Kosaka Instance such as:
 ```json
 {
 	"Kosaka_Stable": "MyStablePassword",
